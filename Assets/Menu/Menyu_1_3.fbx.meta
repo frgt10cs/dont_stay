@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 277b264bd8beb5e418e7e577436ecda9
+timeCreated: 1509030863
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CamMam__36_mm_
+    100002: Chewie
+    100004: Chewie_1
+    100006: Chewie_2
+    100008: Chewie_3
+    100010: Chewie_4
+    100012: Exit
+    100014: Menu
+    100016: //RootNode
+    100018: Play
+    100020: Player
+    100022: Player_1
+    100024: Player_2
+    100026: Player_3
+    100028: Player_4
+    100030: Scene
+    100032: Scene_2
+    100034: Settings
+    100036: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+    100038: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D_2"
+    400000: CamMam__36_mm_
+    400002: Chewie
+    400004: Chewie_1
+    400006: Chewie_2
+    400008: Chewie_3
+    400010: Chewie_4
+    400012: Exit
+    400014: Menu
+    400016: //RootNode
+    400018: Play
+    400020: Player
+    400022: Player_1
+    400024: Player_2
+    400026: Player_3
+    400028: Player_4
+    400030: Scene
+    400032: Scene_2
+    400034: Settings
+    400036: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+    400038: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D_2"
+    2300000: Chewie_1
+    2300002: Chewie_2
+    2300004: Chewie_3
+    2300006: Chewie_4
+    2300008: Exit
+    2300010: Play
+    2300012: Player_1
+    2300014: Player_2
+    2300016: Player_3
+    2300018: Player_4
+    2300020: Scene_2
+    2300022: Settings
+    3300000: Chewie_1
+    3300002: Chewie_2
+    3300004: Chewie_3
+    3300006: Chewie_4
+    3300008: Exit
+    3300010: Play
+    3300012: Player_1
+    3300014: Player_2
+    3300016: Player_3
+    3300018: Player_4
+    3300020: Scene_2
+    3300022: Settings
+    4300000: Play
+    4300002: Settings
+    4300004: Exit
+    4300006: Chewie_3
+    4300008: Chewie_1
+    4300010: Chewie_2
+    4300012: Chewie_4
+    4300014: Player_3
+    4300016: Player_1
+    4300018: Player_2
+    4300020: Player_4
+    4300022: Scene_2
+    7400000: ________ _____
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ________ _____
+      takeName: ________ _____
+      firstFrame: 0
+      lastFrame: 2000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CamMam__36_mm_
+        weight: 1
+      - path: Menu
+        weight: 1
+      - path: Menu/Exit
+        weight: 1
+      - path: Menu/Play
+        weight: 1
+      - path: Menu/Settings
+        weight: 1
+      - path: Scene
+        weight: 1
+      - path: Scene/Chewie
+        weight: 1
+      - path: Scene/Chewie/Chewie_3
+        weight: 1
+      - path: Scene/Chewie/Chewie_3/Chewie_1
+        weight: 1
+      - path: Scene/Chewie/Chewie_3/Chewie_1/Chewie_2
+        weight: 1
+      - path: Scene/Chewie/Chewie_4
+        weight: 1
+      - path: Scene/Player
+        weight: 1
+      - path: Scene/Player/Player_3
+        weight: 1
+      - path: Scene/Player/Player_3/Player_1
+        weight: 1
+      - path: Scene/Player/Player_3/Player_1/Player_2
+        weight: 1
+      - path: Scene/Player/Player_4
+        weight: 1
+      - path: Scene/Scene_2
+        weight: 1
+      - path: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D"
+        weight: 1
+      - path: "\u0412\u044C\u044E\u043F\u043E\u0440\u0442_CINEMA_4D_2"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
